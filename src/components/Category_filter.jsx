@@ -2,7 +2,11 @@ import React from 'react'
 
 const Category_filter = () => {
   return (
-    <div>Category_filter</div>
+    <>
+    <div className="filter_container">
+      filter Section ✌️
+    </div>
+    </>
   )
 }
 
