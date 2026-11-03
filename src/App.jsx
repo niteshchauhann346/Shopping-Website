@@ -7,6 +7,7 @@ import ProductDetail from "./pages/Product_Detail.jsx";
 import Footer from "./components/Footer.jsx";
 import Oredr_Confirmation from "./pages/Order_Confirmation.jsx";
 
+
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 const App = () => {
